@@ -45,7 +45,7 @@ I am a **dedicated and experienced Flutter Developer** with a passion for crafti
 
 ## 🔗 **Let's Connect!**  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/fin-pangestu/](https://www.linkedin.com/in/fin-pangestu/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fin-pangestu/) 
 - 📧 [Email](muhammadalfinpangestu@gmail.com)
 
 ---
