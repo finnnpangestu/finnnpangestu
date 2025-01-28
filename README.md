@@ -15,7 +15,7 @@ I am a **dedicated and experienced Flutter Developer** with a passion for crafti
 ## 💼 **Professional Experience**  
 
 ### **Frontend Developer Staff**  
-**PT Ada Ide Langsung Jalan** | May 2023 – Present | Malang, Indonesia  
+**Smartlink (PT Ada Ide Langsung Jalan)** | May 2023 – Present | Malang, Indonesia  
 
 **Key Projects & Achievements:**  
 - **Kasir Mudah App**: Developed a seamless POS application for web and mobile using Flutter, focusing on user-friendly interfaces and optimal performance.  
