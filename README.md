@@ -34,10 +34,9 @@ I am a **dedicated and experienced Flutter Developer** with a passion for crafti
 
 ## 🛠️ **Technical Skills**  
 
-- **Frontend Development:** Flutter, Dart, Typescript, Tailwind CSS, Vite Webpack  
-- **State Management:** Bloc, Cubit, GetX, Riverpod
-- **Networking:** Dio, RESTful APIs  
-- **UI/UX Design:** Responsive design principles, Google Fonts, Flutter Spinkit  
+- **Frontend Development:** Flutter, Dart, Typescript, Tailwind CSS, Next.js, React.js
+- **State Management:** Bloc, Cubit, GetX, Riverpod, Zustand
+- **Networking:** Dio, RESTful APIs, axios 
 - **Version Control:** Git, GitHub, Bitbucket 
 - **Agile Methodologies:** Scrum
 
@@ -45,8 +44,8 @@ I am a **dedicated and experienced Flutter Developer** with a passion for crafti
 
 ## 🔗 **Let's Connect!**  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fin-pangestu/) 
-- 📧 [Email](muhammadalfinpangestu@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fin-pangestu/) 
+- [Email](muhammadalfinpangestu@gmail.com)
 
 ---
 
